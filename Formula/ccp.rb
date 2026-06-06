@@ -17,9 +17,11 @@ class Ccp < Formula
 
   def caveats
     <<~EOS
-      ccp drives the `claude` CLI, which is NOT distributed via Homebrew.
-      Install it separately and make sure you are logged in:
-        https://docs.claude.com/en/docs/claude-code
+      ccp drives the `claude` CLI, which is installed separately.
+      The easiest way is via Homebrew:
+        brew install --cask claude-code
+      Then make sure you are logged in. See:
+        https://code.claude.com/docs
     EOS
   end
 
