@@ -1,2 +1,13 @@
 # homebrew-tap
-Personal homebrew installation scripts ⚡️
+
+My homebrew installation scripts ⚡️
+
+**UNDER DEVELOPMENT.**
+
+## License
+
+```text
+MIT License
+
+Copyright (c) 2026 Matthew Lee
+```
