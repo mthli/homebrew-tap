@@ -1,8 +1,10 @@
 # homebrew-tap
 
-My homebrew installation scripts ⚡️
+My homebrew installation scripts 🍻
 
-**UNDER DEVELOPMENT.**
+## Formula
+
+- `ccp.rb` - Headless Claude Code automation without the headless mode.
 
 ## License
 
