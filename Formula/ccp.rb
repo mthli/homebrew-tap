@@ -1,8 +1,8 @@
 class Ccp < Formula
   desc "Headless Claude Code automation without the headless mode"
   homepage "https://github.com/mthli/ccp"
-  url "https://github.com/mthli/ccp/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "818e754bb63184152d55cbf647d54499c2d2448a61ad9423b9ea9a328acd801f"
+  url "https://github.com/mthli/ccp/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "a7acf1b2c43db0abe5c619607cb592972d92fb12f06318c00a20bb44127fe03e"
   license "MIT"
 
   depends_on "jq"
